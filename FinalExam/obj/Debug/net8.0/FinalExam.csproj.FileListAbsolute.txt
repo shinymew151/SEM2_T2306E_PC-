@@ -1,0 +1,15 @@
+C:\Users\ADMIN\Desktop\HoangMinhDuc_T2306E\SEM2_T2306E_PC-\FinalExam\bin\Debug\net8.0\FinalExam.exe
+C:\Users\ADMIN\Desktop\HoangMinhDuc_T2306E\SEM2_T2306E_PC-\FinalExam\bin\Debug\net8.0\FinalExam.deps.json
+C:\Users\ADMIN\Desktop\HoangMinhDuc_T2306E\SEM2_T2306E_PC-\FinalExam\bin\Debug\net8.0\FinalExam.runtimeconfig.json
+C:\Users\ADMIN\Desktop\HoangMinhDuc_T2306E\SEM2_T2306E_PC-\FinalExam\bin\Debug\net8.0\FinalExam.dll
+C:\Users\ADMIN\Desktop\HoangMinhDuc_T2306E\SEM2_T2306E_PC-\FinalExam\bin\Debug\net8.0\FinalExam.pdb
+C:\Users\ADMIN\Desktop\HoangMinhDuc_T2306E\SEM2_T2306E_PC-\FinalExam\obj\Debug\net8.0\FinalExam.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\Desktop\HoangMinhDuc_T2306E\SEM2_T2306E_PC-\FinalExam\obj\Debug\net8.0\FinalExam.AssemblyInfoInputs.cache
+C:\Users\ADMIN\Desktop\HoangMinhDuc_T2306E\SEM2_T2306E_PC-\FinalExam\obj\Debug\net8.0\FinalExam.AssemblyInfo.cs
+C:\Users\ADMIN\Desktop\HoangMinhDuc_T2306E\SEM2_T2306E_PC-\FinalExam\obj\Debug\net8.0\FinalExam.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Desktop\HoangMinhDuc_T2306E\SEM2_T2306E_PC-\FinalExam\obj\Debug\net8.0\FinalExam.sourcelink.json
+C:\Users\ADMIN\Desktop\HoangMinhDuc_T2306E\SEM2_T2306E_PC-\FinalExam\obj\Debug\net8.0\FinalExam.dll
+C:\Users\ADMIN\Desktop\HoangMinhDuc_T2306E\SEM2_T2306E_PC-\FinalExam\obj\Debug\net8.0\refint\FinalExam.dll
+C:\Users\ADMIN\Desktop\HoangMinhDuc_T2306E\SEM2_T2306E_PC-\FinalExam\obj\Debug\net8.0\FinalExam.pdb
+C:\Users\ADMIN\Desktop\HoangMinhDuc_T2306E\SEM2_T2306E_PC-\FinalExam\obj\Debug\net8.0\FinalExam.genruntimeconfig.cache
+C:\Users\ADMIN\Desktop\HoangMinhDuc_T2306E\SEM2_T2306E_PC-\FinalExam\obj\Debug\net8.0\ref\FinalExam.dll
