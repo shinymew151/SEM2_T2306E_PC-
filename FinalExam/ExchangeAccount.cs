@@ -1,45 +1,14 @@
 ﻿namespace FinalExam;
 
-public class ExchangeAccount : IAccount, IAccountType
+public class ExchangeAccount : IAccount
 {
-    public decimal Balance { get; private set; }
-    public decimal ExchangeRate { get; private set; }
-
-    public ExchangeAccount(decimal initialBalance, decimal exchangeRate)
+    public void CalculateBalancing1(Account account, ExchangeRate exchangeRate)
     {
-        Balance = initialBalance;
-        ExchangeRate = exchangeRate;
+        System.Console.WriteLine($"Your Exchange account balance is {account.balance* exchangeRate.exchangeRate}");
     }
 
-    public ExchangeAccount()
+    public void CalculateBalancing(Account account)
     {
-    }
-
-    public void CheckBalance()
-    {
-        Console.WriteLine($"Your balance: {Balance * ExchangeRate}");
-    }
-
-    public void Transfer(decimal amount)
-    {
-        if (amount > Balance)
-        {
-            Console.WriteLine("Insufficient funds.");
-            return;
-        }
-
-        Balance -= amount;
-        Console.WriteLine($"Transferred: {(amount*ExchangeRate)} ({amount} {ExchangeRate})");
-        Console.WriteLine($"Your balance: {(Balance * ExchangeRate)}");
-    }
-
-    public string GetAccountType()
-    {
-        return "Exchange";
-    }
-
-    public IAccount CreateAccount(decimal initialBalance, decimal exchangeRate = 1.0m)
-    {
-        return new ExchangeAccount(initialBalance, exchangeRate);
+        throw new NotImplementedException();
     }
 }

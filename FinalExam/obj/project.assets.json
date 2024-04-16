@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ADMIN\\Desktop\\HoangMinhDuc_T2306E\\SEM2_T2306E_PC-\\FinalExam\\FinalExam.csproj",
-      "projectName": "FinalExam",
-      "projectPath": "C:\\Users\\ADMIN\\Desktop\\HoangMinhDuc_T2306E\\SEM2_T2306E_PC-\\FinalExam\\FinalExam.csproj",
+      "projectUniqueName": "C:\\Users\\ADMIN\\Desktop\\HoangMinhDuc_T2306E\\SEM2_T2306E_PC-\\FinalExam\\FinalExam_1.csproj",
+      "projectName": "FinalExam_1",
+      "projectPath": "C:\\Users\\ADMIN\\Desktop\\HoangMinhDuc_T2306E\\SEM2_T2306E_PC-\\FinalExam\\FinalExam_1.csproj",
       "packagesPath": "C:\\Users\\ADMIN\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\ADMIN\\Desktop\\HoangMinhDuc_T2306E\\SEM2_T2306E_PC-\\FinalExam\\obj\\",
       "projectStyle": "PackageReference",
