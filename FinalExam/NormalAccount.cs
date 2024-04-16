@@ -15,7 +15,7 @@ public class NormalAccount : IAccount, IAccountType
 
     public void CheckBalance()
     {
-        Console.WriteLine($"Your balance: {Balance:C2}");
+        Console.WriteLine($"Your balance: {Balance}");
     }
 
     public void Transfer(decimal amount)
@@ -27,8 +27,8 @@ public class NormalAccount : IAccount, IAccountType
         }
 
         Balance -= amount;
-        Console.WriteLine($"Transferred: {amount:C2}");
-        Console.WriteLine($"Your balance: {Balance:C2}");
+        Console.WriteLine($"Transferred: {amount}");
+        Console.WriteLine($"Your balance: {Balance}");
     }
 
     public string GetAccountType()

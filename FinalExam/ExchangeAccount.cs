@@ -17,7 +17,7 @@ public class ExchangeAccount : IAccount, IAccountType
 
     public void CheckBalance()
     {
-        Console.WriteLine($"Your balance: {Balance * ExchangeRate:C2}");
+        Console.WriteLine($"Your balance: {Balance * ExchangeRate}");
     }
 
     public void Transfer(decimal amount)
@@ -29,8 +29,8 @@ public class ExchangeAccount : IAccount, IAccountType
         }
 
         Balance -= amount;
-        Console.WriteLine($"Transferred: {(amount * ExchangeRate):C2} ({amount:C2} {ExchangeRate})");
-        Console.WriteLine($"Your balance: {(Balance * ExchangeRate):C2}");
+        Console.WriteLine($"Transferred: {(amount*ExchangeRate)} ({amount} {ExchangeRate})");
+        Console.WriteLine($"Your balance: {(Balance * ExchangeRate)}");
     }
 
     public string GetAccountType()
